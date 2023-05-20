@@ -2,7 +2,8 @@
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
     background-image: url("images/blackjack.png");
-    background-size: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
     background-blend-mode:color-burn;
     backdrop-filter: blur(10px);
     backdrop-filter: brightness(40%);
