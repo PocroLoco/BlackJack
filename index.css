@@ -30,6 +30,8 @@ h1 {
 
 #message-el {
     font-style: italic;
+    
+   
 }
 
 button {
@@ -47,4 +49,9 @@ button {
 .highlight-el {
 color: rgb(255, 255, 255);
 text-shadow: 1px 1px 5px  black;
+}
+.texts{
+    background-color: rgb(12, 92, 45);
+    padding: 5px 10px;
+    border-radius: 5px;
 }

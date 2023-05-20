@@ -8,9 +8,9 @@ let sum = 0
 let hasBlackJack = false
 let isAlive = false
 let message = ""
-let messageEl = document.getElementById("message-el")
-let sumEl = document.getElementById("sum-el")
-let cardsEl = document.getElementById("cards-el")
+let messageEl = document.getElementById("message-1")
+let sumEl = document.getElementById("message-3")
+let cardsEl = document.getElementById("message-2")
 let playerEl = document.getElementById("player-el")
 
 playerEl.textContent = player.name + ": $" + player.chips
